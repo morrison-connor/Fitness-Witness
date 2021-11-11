@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitnessWitness</string>
+    <string-array name="voices_array">
+        <item>Adam</item>
+        <item>Joanna</item>
+        <item>Amy</item>
+        <item>Brian</item>
+    </string-array>
+</resources>
